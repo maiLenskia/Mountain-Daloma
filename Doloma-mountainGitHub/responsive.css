@@ -1,0 +1,32 @@
+@media (max-width: 800px) {
+    header nav {
+        display: block;
+        text-align: center;
+    }
+    header nav ul li {
+        display: block;
+        text-align: center;
+        padding-bottom: 0.5em;
+    }
+    header nav img {
+        padding-bottom: 1em;
+    }
+    .header-title h1 {
+        font-size: 30px;
+    }
+    .header-title .p1 {
+        font-size: 15px;
+    }
+    .team-description ul {
+        display: block;
+    }
+    .choose-us ul {
+        display: block;
+    }
+    .blog-news ul {
+        display: block;
+    }
+    .blog-news ul li:nth-child(1) {
+        padding-bottom: 1.5em;
+    }
+}
